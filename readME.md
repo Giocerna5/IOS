@@ -10,7 +10,7 @@ Time spent: **15** hours spent in total with trying to set up VM on windows
 
 The following **required** functionality is complete:
 
-* [ Yes] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='x' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='giphy.gif' title='TipCalculator Walk Through' width='' alt='Video Walkthrough' />
+https://media.giphy.com/media/Sr8AZZ6jpTq1quIJaX/giphy.gif
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
